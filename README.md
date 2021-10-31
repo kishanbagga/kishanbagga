@@ -4,7 +4,11 @@
 ### Hi, I am Kishan Bagga👋
 
 ## I'm a Student
-- 💼 I'm currently working on Java!! 
+ - 💼 I'm currently working on Java!! 
+ - 📧 Reach me: **kishansinghbagga@gmail.com**
+ - 💻 Visit my website [🌐](https://kishanbagga.github.io/personalwebsite/)
+
+## Leetcode Profile Link: [kishanbagga](https://leetcode.com/kishanbagga/)
 
 ### Connect With Me:
 
@@ -29,6 +33,11 @@
 
 <img align="left" alt="Kishan Bagga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kishanbagga&show_icons=true&hide_border=true&theme=radical">
 
+<br/>
+<br />
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishanbagga" alt="kishanbagga" /> </p>
 
 
 
