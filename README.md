@@ -1,7 +1,7 @@
 <!--
 **kishanbagga/kishanbagga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi, I am Kishan Bagga👋
+### Hello, I am Kishan Bagga👋
 
 ## I'm a Student
  - 💼 I'm currently working on Java!! 
